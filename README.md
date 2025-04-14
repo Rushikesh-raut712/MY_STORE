@@ -215,7 +215,9 @@ Feel free to submit issues and enhancement requests.
 
 [Untitled.pdf](https://github.com/user-attachments/files/19743368/Untitled.pdf)
 
+## Database Schema
 
+[Download MY_STORE.mwb] (https://github.com/Rushikesh-raut712/MY_STORE/tree/main/MY_STORE.mwb?raw=true)
 
 
 
